@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    className="card-img-top"
+    src="Screenshot 2024-06-19 220641.png"
+    style={
+      Object {
+        "position": "relative",
+        "right": "130px",
+      }
+    }
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    />
+    <p
+      className="card-text"
+    >
+      JSRF enthusiast, vinyl collecter, and owner of impeccable taste. What more could you need to know then?
+    </p>
+    <button
+      className="btn btn-primary"
+      disabled={false}
+      type="button"
+    >
+      <a
+        className="card-link"
+        href=""
+      >
+        My Profile
+      </a>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`renders a snapshot of the card 1`] = `[Function]`;
